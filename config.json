@@ -1,0 +1,9 @@
+{
+    "guildId": "1226909761161924758",
+    "voiceChannelId": "1259925725021081621",
+    "activity": [
+        { "name": "Sizi", "type": "LISTENING" },
+        { "name": "Hayatımla", "type": "PLAYING" },
+        { "name": "Seni", "type": "WATCHING" }
+    ]
+}
